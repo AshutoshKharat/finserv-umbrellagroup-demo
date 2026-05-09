@@ -5,6 +5,7 @@ require_once 'includes/navbar.php';
 
 $sections = [
     'hero',
+    'service-nav-panels',
     'solutions-services',
     'tech-solutions',
     'about-company',

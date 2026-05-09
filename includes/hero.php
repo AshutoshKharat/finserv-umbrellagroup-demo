@@ -22,13 +22,12 @@
 
                             <h1 class="hero-heading mb-4">
                                 WELCOME to  <br>
-                                VU Technologies
+                                FinServ Unified Dashboard 
                             </h1>
 
                             <p class="hero-subtext mb-5">
-                                Technology Internet Company Delivering Services to the Internet Users with Quality of Purpose Driven
-                                <br> Welcome to Digital World of Application and Services
-                                <br> Our Leadership and Working Policies are on Foundation of Be the Change to Initiate Change
+                                Your complete financial services command centre — Insurance, Investment & Taxation 
+                                <br> managed from one place, powered by VIOTX Umbrella.
                             </p>
 
                             <a href="contact.php" class="btn btn-start-project">
