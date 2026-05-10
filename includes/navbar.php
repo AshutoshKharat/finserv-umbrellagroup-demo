@@ -26,24 +26,25 @@
         </div>
 
         <!-- Nav Links -->
-        <div class="collapse navbar-collapse" id="mainNav">
-            <ul class="navbar-nav mx-auto mb-2 mb-lg-0 gap-lg-1">
+        <div class="collapse navbar-collapse ms-lg-4" id="mainNav">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 gap-lg-1">
                 <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Home</a>
                 </li> -->
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        About Us
-                    </a>
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> E-Services </a>
                     <ul class="dropdown-menu dropdown-menu-dark border-0 shadow-lg">
                         <li><a class="dropdown-item" href="about.php" target="_blank">About</a></li>
                         <li><a class="dropdown-item" href="career.php" target="_blank">Career</a></li>
                         <li><a class="dropdown-item" href="contact.php" target="_blank">Contact</a></li>
+                        <li><a class="dropdown-item" href="https://insurance.incorp-umbrellagroup.com" target="_blank">Insurance</a></li>
+                        <li><a class="dropdown-item" href="https://fintax.incorp-umbrellagroup.com/index.php" target="_blank">FinTax</a></li>
+                        <li><a class="dropdown-item" href="https://investment.incorp-umbrellagroup.com/" target="_blank">Investment</a></li>
                     </ul>
                 </li>
 
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="https://insurance.incorp-umbrellagroup.com" target="_blank">Insurance</a>
                 </li>
 
@@ -53,7 +54,7 @@
 
                 <li class="nav-item">
                     <a class="nav-link" href="https://investment.incorp-umbrellagroup.com/" target="_blank">Investment</a>
-                </li>
+                </li> -->
             </ul>
         </div>
 
